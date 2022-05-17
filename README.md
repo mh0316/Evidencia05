@@ -1,4 +1,4 @@
-II.- Identifique las clases y lo que éstas representan. Luego, establezca una descripción textual breve del contexto problema.
+I.- Identifique las clases y lo que éstas representan. Luego, establezca una descripción textual breve del contexto problema.
 Clases identificadas: 
 -Calculadora: Suma y multiplica 2 parámetros instanciados.
 -CarroCompra: Crea una matriz de 2*5 (2 columnas y 5 filas). Luego se agrega x cantidad de producto(en este caso 1) y el precio del producto(en este caso 1000).
